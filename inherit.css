@@ -1,0 +1,21 @@
+html {
+    font: 75% Verdana, sans-serif;
+    
+    /* Add these */
+    background-color: gray;
+    color: white;
+    }
+h1 {
+    font-size: 300%;
+    }
+p {
+    color: cyan;
+    }
+#special {
+    background-color: red;
+    color: yellow;
+    }
+p {
+    background-color: yellow;
+    color: black;
+    }
